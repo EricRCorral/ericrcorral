@@ -1,7 +1,11 @@
 <div align="center">
 <h1>Hi! Eric here</h1>
 <h3>
-  Front end developer with more than 3 years of workin experience. Self taugh programer and AI enthusiast. My objective as developer is to deliver a functional web app making use of good practices, writting a cleann code, ensuring the scalability of it and the minimum bgs possible. As a teamplayer I enjoy work in a dynamic team focusing in a good communication.</h3>    
+  Front end developer with more than 3 years of working experience. Self taugh programer and AI enthusiast.
+
+My objective as developer is to deliver a functional web app making use of good practices, writting a clean code, ensuring the scalability of it and the minimum bugs possible. 
+
+As a teamplayer I enjoy work in a dynamic team focusing in a good communication.</h3>    
 <h3>Connect with me:</h3>
 <div>
 <a href="https://linkedin.com/in/eric-corral-906364192/" target="blank"><img align="center" src="https://i.pinimg.com/originals/0c/78/d0/0c78d03cbfa19d5f3d7ad1b6e49f957b.png" alt="eric-corral-906364192/" height="60"   width="60" /></a>
