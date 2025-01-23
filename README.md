@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Hi! Eric here</h1>
 <h3>
-  Front end developer with more than 3 years of working experience. Self taugh programer and AI enthusiast.
+  Front end developer with more than 3 years of working experience. Self taugh programer and full stack enthusiast.
 
 My objective as developer is to deliver a functional web app making use of good practices, writting a clean code, ensuring the scalability of it and the minimum bugs possible. 
 
